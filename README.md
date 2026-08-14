@@ -35,5 +35,4 @@ git clone https://mandasujeevana.github.io/simon-says-game/
 
 ## 📸 Screenshot
 
-<img width="959" height="538" alt="Screenshot 2026-08-14 194128" src="https://github.com/user-attachments/assets/9546e2fa-d573-4d6a-8eb0-2fe8c1f542af" />
-
+![Simon Game Screenshot](Screenshot_2026-08-14 194128.png)
