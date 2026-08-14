@@ -30,9 +30,8 @@ A browser-based memory game built using **HTML, CSS, and JavaScript**. The game 
 
 Clone the repository:
 
-```bash
-git clone https://mandasujeevana.github.io/simon-says-game/
+## 🌐 Live Demo
 
-## 📸 Screenshot
+[Play Simon Game](https://mandasujeevana.github.io/simon-says-game/)
 
-[Simon Game Screenshot](Screenshot_2026-08-14 194128.png)
+
